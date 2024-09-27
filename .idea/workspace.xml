@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4c4c2cc-602d-4299-87d2-3d319175b000" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FortuneTeller.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FortuneClicker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FortuneTellerFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FortuneTellerImage.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaTellerViewer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="c4c4c2cc-602d-4299-87d2-3d319175b000" name="Changes" comment="Final Commit">
+      <change beforePath="$PROJECT_DIR$/src/FortuneClicker.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Gopinasi/FortuneTeller.git",
+    "accountId": "e1f64822-330b-412a-89b3-04fb734cadb6"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -93,8 +89,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727355585927</updated>
-      <workItem from="1727355587004" duration="17663000" />
+      <workItem from="1727355587004" duration="17996000" />
     </task>
+    <task id="LOCAL-00001" summary="Final Commit">
+      <option name="closed" value="true" />
+      <created>1727476894902</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727476894902</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,5 +115,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Commit" />
   </component>
 </project>
